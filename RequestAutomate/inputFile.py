@@ -1,0 +1,1 @@
+input = [[1, "AR Gaming"],[2,"IoT Sensor"],[1, "AR Gaming"],[2, "IoT Sensor"],[2, "Traffic Management"],[3, "Video Conferencing"],[4,"AR Gaming"]]
